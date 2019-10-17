@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>datacamp git notes </title>
+		</head>
+		<body>
+			<h1> basic workflow </h1>
+				<p> 
+					<b>git status</b> to discover which file(s) have been changed since the last save
+					<br><b>git diff filename</b> to compare the file as it currently is to what you last saved
+					<br> &nbsp; lines being removed are prefixed with -, lines being added are prefixed with +
+					<br> &nbsp; @@ tells where the changes are being made. the pair of numbers are start line and number of lines
+					<br><b>git diff</b> will show you all the changes in your repository
+					<br><b>git diff directory</b> will show you the changes to the files in some directory
+					<br><b>git add filename</b> to add a file to the staging area
+				</p>
+
+		</body>
+	</html>
+
+
+
